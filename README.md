@@ -1,1 +1,1 @@
-tanujsharm.github.io/monsters-rolodex
+hosted on https://tanujsharm.github.io/monsters-rolodex/
